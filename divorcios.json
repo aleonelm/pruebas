@@ -1,0 +1,808 @@
+{
+"divorcios":[
+ {
+   "A": "anno",
+   "B": "departamentno",
+   "C": "cantidad"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Amazonas",
+   "C": "5"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Antioquia",
+   "C": "1613"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Arauca",
+   "C": "75"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Atlantico",
+   "C": "1033"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Bolivar",
+   "C": "427"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Boyaca",
+   "C": "519"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Caldas",
+   "C": "501"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Caqueta",
+   "C": "103"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Casanare",
+   "C": "105"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Cauca",
+   "C": "278"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Cesar",
+   "C": "233"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Choco",
+   "C": "30"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Cordoba",
+   "C": "128"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Cundinamarca",
+   "C": "5474"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Guainia",
+   "C": "2"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Guajira",
+   "C": "63"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Guaviare",
+   "C": "15"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Huila",
+   "C": "575"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Magdalena",
+   "C": "169"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Meta",
+   "C": "251"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Narinno",
+   "C": "347"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Norte De Santander",
+   "C": "371"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Putumayo",
+   "C": "52"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Quindio",
+   "C": "611"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Risaralda",
+   "C": "805"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "San Andres Y Providencia",
+   "C": "25"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Santander",
+   "C": "530"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Sucre",
+   "C": "165"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Tolima",
+   "C": "599"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Valle",
+   "C": "2875"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Vaupes",
+   "C": "0"
+ },
+ {
+   "A": "Anno 2014",
+   "B": "Vichada",
+   "C": "12"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Amazonas",
+   "C": "9"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Antioquia",
+   "C": "2245"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Arauca",
+   "C": "33"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Atlantico",
+   "C": "997"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Bolivar",
+   "C": "357"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Boyaca",
+   "C": "408"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Caldas",
+   "C": "593"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Caqueta",
+   "C": "115"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Casanare",
+   "C": "145"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Cauca",
+   "C": "285"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Cesar",
+   "C": "207"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Choco",
+   "C": "31"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Cordoba",
+   "C": "155"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Cundinamarca",
+   "C": "5945"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Guainia",
+   "C": "3"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Guajira",
+   "C": "69"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Guaviare",
+   "C": "21"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Huila",
+   "C": "546"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Magdalena",
+   "C": "154"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Meta",
+   "C": "289"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Narinno",
+   "C": "447"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Norte De Santander",
+   "C": "434"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Putumayo",
+   "C": "74"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Quindio",
+   "C": "631"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Risaralda",
+   "C": "1017"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "San Andres Y Providencia",
+   "C": "25"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Santander",
+   "C": "1022"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Sucre",
+   "C": "141"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Tolima",
+   "C": "569"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Valle",
+   "C": "3198"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Vaupes",
+   "C": "0"
+ },
+ {
+   "A": "Anno 2015",
+   "B": "Vichada",
+   "C": "5"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Amazonas",
+   "C": "8"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Antioquia",
+   "C": "2737"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Arauca",
+   "C": "58"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Atlantico",
+   "C": "1278"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Bolivar",
+   "C": "406"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Boyaca",
+   "C": "451"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Caldas",
+   "C": "632"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Caqueta",
+   "C": "111"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Casanare",
+   "C": "138"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Cauca",
+   "C": "342"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Cesar",
+   "C": "213"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Choco",
+   "C": "33"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Cordoba",
+   "C": "173"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Cundinamarca",
+   "C": "6688"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Guainia",
+   "C": "3"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Guajira",
+   "C": "65"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Guaviare",
+   "C": "10"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Huila",
+   "C": "544"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Magdalena",
+   "C": "132"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Meta",
+   "C": "333"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Narinno",
+   "C": "485"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Norte De Santander",
+   "C": "445"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Putumayo",
+   "C": "80"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Quindio",
+   "C": "799"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Risaralda",
+   "C": "1045"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "San Andres Y Providencia",
+   "C": "37"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Santander",
+   "C": "1194"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Sucre",
+   "C": "184"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Tolima",
+   "C": "609"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Valle",
+   "C": "4014"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Vaupes",
+   "C": "1"
+ },
+ {
+   "A": "Anno 2016",
+   "B": "Vichada",
+   "C": "11"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Amazonas",
+   "C": "7"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Antioquia",
+   "C": "2721"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Arauca",
+   "C": "50"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Atlantico",
+   "C": "1233"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Bolivar",
+   "C": "557"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Boyaca",
+   "C": "417"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Caldas",
+   "C": "673"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Caqueta",
+   "C": "145"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Casanare",
+   "C": "137"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Cauca",
+   "C": "304"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Cesar",
+   "C": "222"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Choco",
+   "C": "30"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Cordoba",
+   "C": "219"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Cundinamarca",
+   "C": "6480"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Guainia",
+   "C": "3"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Guajira",
+   "C": "55"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Guaviare",
+   "C": "27"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Huila",
+   "C": "512"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Magdalena",
+   "C": "111"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Meta",
+   "C": "247"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Narinno",
+   "C": "523"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Norte De Santander",
+   "C": "445"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Putumayo",
+   "C": "93"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Quindio",
+   "C": "698"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Risaralda",
+   "C": "1233"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "San Andres Y Providencia",
+   "C": "25"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Santander",
+   "C": "1177"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Sucre",
+   "C": "215"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Tolima",
+   "C": "555"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Valle",
+   "C": "3935"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Vaupes",
+   "C": "1"
+ },
+ {
+   "A": "Anno 2017",
+   "B": "Vichada",
+   "C": "5"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Amazonas",
+   "C": "7"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Antioquia",
+   "C": "2795"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Arauca",
+   "C": "60"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Atlantico",
+   "C": "1244"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Bolivar",
+   "C": "538"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Boyaca",
+   "C": "518"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Caldas",
+   "C": "694"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Caqueta",
+   "C": "148"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Casanare",
+   "C": "129"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Cauca",
+   "C": "393"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Cesar",
+   "C": "255"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Choco",
+   "C": "43"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Cordoba",
+   "C": "194"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Cundinamarca",
+   "C": "6370"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Guainia",
+   "C": "6"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Guajira",
+   "C": "81"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Guaviare",
+   "C": "16"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Huila",
+   "C": "532"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Magdalena",
+   "C": "162"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Meta",
+   "C": "247"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Narinno",
+   "C": "542"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Norte De Santander",
+   "C": "474"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Putumayo",
+   "C": "75"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Quindio",
+   "C": "812"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Risaralda",
+   "C": "1197"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "San Andres Y Providencia",
+   "C": "23"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Santander",
+   "C": "1375"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Sucre",
+   "C": "174"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Tolima",
+   "C": "600"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Valle",
+   "C": "3962"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Vaupes",
+   "C": "2"
+ },
+ {
+   "A": "Anno 2018",
+   "B": "Vichada",
+   "C": "10"
+ }
+]}
